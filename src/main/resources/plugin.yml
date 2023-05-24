@@ -1,0 +1,4 @@
+name: EntityEndPortalFix
+version: '${project.version}'
+main: mineucfuhc.entityendportalfix.EntityEndPortalFix
+api-version: 1.19
